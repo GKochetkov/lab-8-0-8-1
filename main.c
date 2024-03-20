@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
-#include "kg_stack.h"
+#include "cg_stack.h"
 
 #define MAX_VRTX_CNT 5000
 #define V1 *edge
